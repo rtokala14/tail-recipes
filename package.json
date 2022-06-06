@@ -1,0 +1,23 @@
+{
+  "name": "tail-recipes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss ./src/styles.css -o ./public/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rtokala14/tail-recipes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rtokala14/tail-recipes/issues"
+  },
+  "homepage": "https://github.com/rtokala14/tail-recipes#readme",
+  "dependencies": {
+    "tailwindcss": "^3.0.24"
+  }
+}
